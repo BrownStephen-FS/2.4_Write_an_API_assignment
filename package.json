@@ -1,0 +1,26 @@
+{
+  "name": "2.4_write_an_api",
+  "version": "1.0.0",
+  "description": "NodeJS API Assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "NodeJS",
+    "Rest",
+    "API"
+  ],
+  "author": "Stephen Brown",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "nodemon": "^2.0.19"
+  }
+}
