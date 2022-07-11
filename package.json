@@ -4,7 +4,7 @@
   "description": "NodeJS API Assignment",
   "main": "server.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "start": "nodemon server"
   },
   "keywords": [
